@@ -1,0 +1,12 @@
+
+./snurisc.v
+./testbench/tb_snurisc.v
+./ctrl_logic/control.v
+./datapath/decode.v
+./datapath/imem.v
+./datapath/dmem.v
+./datapath/pcgen.v
+./datapath/fetch.v
+./datapath/immgen.v
+./datapath/alu.v
+./datapath/execute.v
