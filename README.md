@@ -29,4 +29,4 @@
 
 ## Reference
 
-TODO
+[Computer Architecture (Fall 2020)](http://csl.snu.ac.kr/courses/4190.308/2020-2/)
